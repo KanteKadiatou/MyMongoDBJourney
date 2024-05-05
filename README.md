@@ -18,4 +18,4 @@ Les contributions sont les bienvenues. Pour contribuer, veuillez ouvrir une Pull
 Ce projet est sous licence [MIT](LICENSE).
 
 ## Contact
-Pour des questions ou des suggestions, vous pouvez me contacter via [email](mailto:email@example.com).
+Pour des questions ou des suggestions, vous pouvez me contacter via [email](kante7499@gmail.com).
